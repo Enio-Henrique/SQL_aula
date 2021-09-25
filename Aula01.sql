@@ -3,7 +3,6 @@ CREATE TABLE clientes
     id int not null PRIMARY KEY, -- define a chave primaria no inicio
     nome varchar(70) not null,
     whats varchar(17)
-    
 );
 CREATE TABLE clientes
 (
